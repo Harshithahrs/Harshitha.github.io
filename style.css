@@ -611,7 +611,7 @@ html {
   box-shadow: 0 0.1rem 0.8rem rgba(0, 0, 0, 0.4);
 }
 
-.contact {
+.Contact {
   width: 100%;
   height: 100vh;
   background-color: #272727;
@@ -620,27 +620,27 @@ html {
   align-items: center;
 }
 
-.contact-wrapper {
+.Contact-wrapper {
   width: 60%;
   height: 75rem;
   display: flex;
   box-shadow: 0 3rem 7rem rgba(0, 0, 0, 0.5);
 }
 
-.contact-left {
+.Contact-left {
   width: 35%;
   background: linear-gradient(rgba(15, 15, 15, 0.6), rgba(22, 22, 22, 0.9)),
     url(images/contact-bg.jpg) center no-repeat;
   background-size: cover;
 }
 
-.contact-right {
+.Contact-right {
   width: 65%;
   background-color: #eee;
   padding: 3rem 10rem 10rem 10rem;
 }
 
-.contact-heading {
+.Contact-heading {
   font-family: "Baloo Da 2", serif;
   font-size: 6rem;
   font-weight: 300;
@@ -649,7 +649,7 @@ html {
   text-align: center;
 }
 
-.contact-right form {
+.Contact-right form {
   width: 100%;
   display: flex;
   flex-direction: column;
