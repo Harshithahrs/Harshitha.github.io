@@ -508,7 +508,7 @@ html {
 }
 
 .about-me-img-wrapper img {
-  width: 100%;
+  width: 80%;
   object-fit: cover;
   opacity: 0.8;
 }
